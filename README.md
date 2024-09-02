@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Gabriel Nunes/ Olá, eu me chamo Gabriel Nunes
-- 🌱 I’m currently learning Python/ Atualmente estou estudando Python
+<h1>Olá, eu me chamo Gabriel Nunes</h1>
