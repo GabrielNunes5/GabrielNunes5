@@ -41,8 +41,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabrielNunes5/GabrielNunes5/output/snake.svg" alt="Snake animation" />
-
-###
